@@ -1,0 +1,260 @@
+{
+  "assetsByChunkName": {
+    "path---dashboard-announcement-manage": [
+      "path---dashboard-announcement-manage-586c7e095e534a3909ec.js",
+      "path---dashboard-announcement-manage-586c7e095e534a3909ec.js.map"
+    ],
+    "component---src-pages-dashboard-facility-booking-js": [
+      "component---src-pages-dashboard-facility-booking-js-f0fe3a983880ea6a49cc.js",
+      "component---src-pages-dashboard-facility-booking-js-f0fe3a983880ea6a49cc.js.map"
+    ],
+    "component---src-pages-dashboard-news-index-js": [
+      "component---src-pages-dashboard-news-index-js-90a933dd217754007751.js",
+      "component---src-pages-dashboard-news-index-js-90a933dd217754007751.js.map"
+    ],
+    "path---dashboard-account-manage": [
+      "path---dashboard-account-manage-586c7e095e534a3909ec.js",
+      "path---dashboard-account-manage-586c7e095e534a3909ec.js.map"
+    ],
+    "component---src-pages-dashboard-payment-history-index-js": [
+      "component---src-pages-dashboard-payment-history-index-js-becce3157e1bbe46ef5d.js",
+      "component---src-pages-dashboard-payment-history-index-js-becce3157e1bbe46ef5d.js.map"
+    ],
+    "path---dashboard-account-add": [
+      "path---dashboard-account-add-586c7e095e534a3909ec.js",
+      "path---dashboard-account-add-586c7e095e534a3909ec.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-6061b7f14d8f9ea772e1.js",
+      "component---src-pages-index-js-6061b7f14d8f9ea772e1.js.map"
+    ],
+    "path---dashboard-conversation-new-message": [
+      "path---dashboard-conversation-new-message-586c7e095e534a3909ec.js",
+      "path---dashboard-conversation-new-message-586c7e095e534a3909ec.js.map"
+    ],
+    "component---src-pages-dashboard-announcement-manage-js": [
+      "component---src-pages-dashboard-announcement-manage-js-2dd140baa2ac1c1cb8d2.js",
+      "component---src-pages-dashboard-announcement-manage-js-2dd140baa2ac1c1cb8d2.js.map"
+    ],
+    "component---src-pages-dashboard-announcement-add-js": [
+      "component---src-pages-dashboard-announcement-add-js-cc8f21d0285b33e5a167.js",
+      "component---src-pages-dashboard-announcement-add-js-cc8f21d0285b33e5a167.js.map"
+    ],
+    "path---dashboard-forum": [
+      "path---dashboard-forum-586c7e095e534a3909ec.js",
+      "path---dashboard-forum-586c7e095e534a3909ec.js.map"
+    ],
+    "path---dashboard-cost-structure": [
+      "path---dashboard-cost-structure-586c7e095e534a3909ec.js",
+      "path---dashboard-cost-structure-586c7e095e534a3909ec.js.map"
+    ],
+    "path---": [
+      "path----6611940bd40871b680a6.js",
+      "path----6611940bd40871b680a6.js.map"
+    ],
+    "path---dashboard-news": [
+      "path---dashboard-news-586c7e095e534a3909ec.js",
+      "path---dashboard-news-586c7e095e534a3909ec.js.map"
+    ],
+    "component---src-pages-dashboard-index-js": [
+      "component---src-pages-dashboard-index-js-47899bb7635a958b5be0.js",
+      "component---src-pages-dashboard-index-js-47899bb7635a958b5be0.js.map"
+    ],
+    "path---dashboard-account-guard": [
+      "path---dashboard-account-guard-586c7e095e534a3909ec.js",
+      "path---dashboard-account-guard-586c7e095e534a3909ec.js.map"
+    ],
+    "component---src-pages-dashboard-forum-index-js": [
+      "component---src-pages-dashboard-forum-index-js-5492d83eab68920d76c3.js",
+      "component---src-pages-dashboard-forum-index-js-5492d83eab68920d76c3.js.map"
+    ],
+    "path---dashboard-announcement": [
+      "path---dashboard-announcement-586c7e095e534a3909ec.js",
+      "path---dashboard-announcement-586c7e095e534a3909ec.js.map"
+    ],
+    "path---dashboard-facility-booking": [
+      "path---dashboard-facility-booking-586c7e095e534a3909ec.js",
+      "path---dashboard-facility-booking-586c7e095e534a3909ec.js.map"
+    ],
+    "path---dashboard-settings": [
+      "path---dashboard-settings-586c7e095e534a3909ec.js",
+      "path---dashboard-settings-586c7e095e534a3909ec.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-e54b259301ef7f76c8e8.js",
+      "component---src-layouts-index-js-e54b259301ef7f76c8e8.js.map"
+    ],
+    "component---src-pages-dashboard-security-index-js": [
+      "component---src-pages-dashboard-security-index-js-56dd56e9884eb256e202.js",
+      "component---src-pages-dashboard-security-index-js-56dd56e9884eb256e202.js.map"
+    ],
+    "component---src-pages-dashboard-announcement-index-js": [
+      "component---src-pages-dashboard-announcement-index-js-1f39e5edd93d39891fc5.js",
+      "component---src-pages-dashboard-announcement-index-js-1f39e5edd93d39891fc5.js.map"
+    ],
+    "path---dashboard-announcement-edit": [
+      "path---dashboard-announcement-edit-586c7e095e534a3909ec.js",
+      "path---dashboard-announcement-edit-586c7e095e534a3909ec.js.map"
+    ],
+    "component---src-pages-dashboard-residence-index-js": [
+      "component---src-pages-dashboard-residence-index-js-cc783fc5843f9ec0c0cf.js",
+      "component---src-pages-dashboard-residence-index-js-cc783fc5843f9ec0c0cf.js.map"
+    ],
+    "component---src-pages-dashboard-account-manage-js": [
+      "component---src-pages-dashboard-account-manage-js-0c84f29ec9aff7ec6bdc.js",
+      "component---src-pages-dashboard-account-manage-js-0c84f29ec9aff7ec6bdc.js.map"
+    ],
+    "component---src-pages-dashboard-facility-manage-facility-js": [
+      "component---src-pages-dashboard-facility-manage-facility-js-06bed0cde2c950762869.js",
+      "component---src-pages-dashboard-facility-manage-facility-js-06bed0cde2c950762869.js.map"
+    ],
+    "path---dashboard-account-view": [
+      "path---dashboard-account-view-586c7e095e534a3909ec.js",
+      "path---dashboard-account-view-586c7e095e534a3909ec.js.map"
+    ],
+    "component---src-pages-dashboard-payment-history-view-payment-js": [
+      "component---src-pages-dashboard-payment-history-view-payment-js-224314f64f5f1f4964c7.js",
+      "component---src-pages-dashboard-payment-history-view-payment-js-224314f64f5f1f4964c7.js.map"
+    ],
+    "component---src-pages-dashboard-payment-index-js": [
+      "component---src-pages-dashboard-payment-index-js-236167b4a3c7fdf10a60.js",
+      "component---src-pages-dashboard-payment-index-js-236167b4a3c7fdf10a60.js.map"
+    ],
+    "path---dashboard-announcement-add": [
+      "path---dashboard-announcement-add-586c7e095e534a3909ec.js",
+      "path---dashboard-announcement-add-586c7e095e534a3909ec.js.map"
+    ],
+    "path---index": [
+      "path---index-586c7e095e534a3909ec.js",
+      "path---index-586c7e095e534a3909ec.js.map"
+    ],
+    "path---dashboard-payment-history-view-payment": [
+      "path---dashboard-payment-history-view-payment-586c7e095e534a3909ec.js",
+      "path---dashboard-payment-history-view-payment-586c7e095e534a3909ec.js.map"
+    ],
+    "path---dashboard-forum-topic": [
+      "path---dashboard-forum-topic-586c7e095e534a3909ec.js",
+      "path---dashboard-forum-topic-586c7e095e534a3909ec.js.map"
+    ],
+    "component---src-pages-dashboard-conversation-new-message-js": [
+      "component---src-pages-dashboard-conversation-new-message-js-d684021cc061fbd6b2df.js",
+      "component---src-pages-dashboard-conversation-new-message-js-d684021cc061fbd6b2df.js.map"
+    ],
+    "component---src-pages-dashboard-facility-manage-booking-js": [
+      "component---src-pages-dashboard-facility-manage-booking-js-458abbcb4259cf5dcb44.js",
+      "component---src-pages-dashboard-facility-manage-booking-js-458abbcb4259cf5dcb44.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-ed59d01017584107f4d9.js",
+      "component---src-pages-404-js-ed59d01017584107f4d9.js.map"
+    ],
+    "path---dashboard-security": [
+      "path---dashboard-security-586c7e095e534a3909ec.js",
+      "path---dashboard-security-586c7e095e534a3909ec.js.map"
+    ],
+    "commons": [
+      "commons-7de6731c90bb114701ca.js",
+      "build-js-styles.css",
+      "commons-7de6731c90bb114701ca.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404-html": [
+      "path---404-html-586c7e095e534a3909ec.js",
+      "path---404-html-586c7e095e534a3909ec.js.map"
+    ],
+    "component---src-pages-dashboard-conversation-index-js": [
+      "component---src-pages-dashboard-conversation-index-js-1eec7b0b89a65e9e6cb6.js",
+      "component---src-pages-dashboard-conversation-index-js-1eec7b0b89a65e9e6cb6.js.map"
+    ],
+    "component---src-pages-dashboard-announcement-edit-js": [
+      "component---src-pages-dashboard-announcement-edit-js-5f88d3bc40273f4e9b70.js",
+      "component---src-pages-dashboard-announcement-edit-js-5f88d3bc40273f4e9b70.js.map"
+    ],
+    "path---login": [
+      "path---login-586c7e095e534a3909ec.js",
+      "path---login-586c7e095e534a3909ec.js.map"
+    ],
+    "path---dashboard-property-manage": [
+      "path---dashboard-property-manage-586c7e095e534a3909ec.js",
+      "path---dashboard-property-manage-586c7e095e534a3909ec.js.map"
+    ],
+    "component---src-pages-dashboard-account-guard-js": [
+      "component---src-pages-dashboard-account-guard-js-8b015b647aa9fb35963e.js",
+      "component---src-pages-dashboard-account-guard-js-8b015b647aa9fb35963e.js.map"
+    ],
+    "path---dashboard-payment-history": [
+      "path---dashboard-payment-history-586c7e095e534a3909ec.js",
+      "path---dashboard-payment-history-586c7e095e534a3909ec.js.map"
+    ],
+    "component---src-pages-dashboard-forum-topic-js": [
+      "component---src-pages-dashboard-forum-topic-js-acea258c3b8f7380418a.js",
+      "component---src-pages-dashboard-forum-topic-js-acea258c3b8f7380418a.js.map"
+    ],
+    "component---src-pages-dashboard-settings-index-js": [
+      "component---src-pages-dashboard-settings-index-js-9a2886038fa96cee97ad.js",
+      "component---src-pages-dashboard-settings-index-js-9a2886038fa96cee97ad.js.map"
+    ],
+    "path---dashboard-facility-manage-booking": [
+      "path---dashboard-facility-manage-booking-586c7e095e534a3909ec.js",
+      "path---dashboard-facility-manage-booking-586c7e095e534a3909ec.js.map"
+    ],
+    "path---dashboard": [
+      "path---dashboard-586c7e095e534a3909ec.js",
+      "path---dashboard-586c7e095e534a3909ec.js.map"
+    ],
+    "component---src-pages-dashboard-account-view-js": [
+      "component---src-pages-dashboard-account-view-js-7bc4588c702a53e5dbfa.js",
+      "component---src-pages-dashboard-account-view-js-7bc4588c702a53e5dbfa.js.map"
+    ],
+    "component---src-pages-login-js": [
+      "component---src-pages-login-js-ab64beb6de732bfcdc5a.js",
+      "component---src-pages-login-js-ab64beb6de732bfcdc5a.js.map"
+    ],
+    "app": [
+      "app-e1a18a7d710a14f5ed8a.js",
+      "build-js-styles.css",
+      "app-e1a18a7d710a14f5ed8a.js.map",
+      "build-js-styles.css.map"
+    ],
+    "component---src-pages-dashboard-property-manage-js": [
+      "component---src-pages-dashboard-property-manage-js-636fe66960375f8a8910.js",
+      "component---src-pages-dashboard-property-manage-js-636fe66960375f8a8910.js.map"
+    ],
+    "component---src-pages-dashboard-account-add-js": [
+      "component---src-pages-dashboard-account-add-js-0efe5cb293322ae1a398.js",
+      "component---src-pages-dashboard-account-add-js-0efe5cb293322ae1a398.js.map"
+    ],
+    "component---src-pages-dashboard-cost-structure-index-js": [
+      "component---src-pages-dashboard-cost-structure-index-js-5c25825879014c2be31e.js",
+      "component---src-pages-dashboard-cost-structure-index-js-5c25825879014c2be31e.js.map"
+    ],
+    "path---dashboard-conversation-message": [
+      "path---dashboard-conversation-message-586c7e095e534a3909ec.js",
+      "path---dashboard-conversation-message-586c7e095e534a3909ec.js.map"
+    ],
+    "path---404": [
+      "path---404-586c7e095e534a3909ec.js",
+      "path---404-586c7e095e534a3909ec.js.map"
+    ],
+    "path---dashboard-payment": [
+      "path---dashboard-payment-586c7e095e534a3909ec.js",
+      "path---dashboard-payment-586c7e095e534a3909ec.js.map"
+    ],
+    "path---dashboard-residence": [
+      "path---dashboard-residence-586c7e095e534a3909ec.js",
+      "path---dashboard-residence-586c7e095e534a3909ec.js.map"
+    ],
+    "path---dashboard-facility-manage-facility": [
+      "path---dashboard-facility-manage-facility-586c7e095e534a3909ec.js",
+      "path---dashboard-facility-manage-facility-586c7e095e534a3909ec.js.map"
+    ],
+    "component---src-pages-dashboard-conversation-message-js": [
+      "component---src-pages-dashboard-conversation-message-js-cc483a2cb3d6fdb7622d.js",
+      "component---src-pages-dashboard-conversation-message-js-cc483a2cb3d6fdb7622d.js.map"
+    ],
+    "path---dashboard-conversation": [
+      "path---dashboard-conversation-586c7e095e534a3909ec.js",
+      "path---dashboard-conversation-586c7e095e534a3909ec.js.map"
+    ]
+  }
+}

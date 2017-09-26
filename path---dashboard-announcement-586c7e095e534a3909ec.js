@@ -1,0 +1,2 @@
+webpackJsonp([78505057331853],{"./node_modules/json-loader/index.js!./.cache/json/dashboard-announcement.json":function(n,o){n.exports={pathContext:{}}}});
+//# sourceMappingURL=path---dashboard-announcement-586c7e095e534a3909ec.js.map
